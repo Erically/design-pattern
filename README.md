@@ -5,4 +5,6 @@
 - 饿汉模式
 - 懒汉模式
 
-## 工厂模式
+## [工厂模式](https://github.com/Erically/design-pattern/tree/master/src/main/java/org/hqw/designpattern/creatingpattern/factory)
+
+## [策略模式](https://github.com/Erically/design-pattern/tree/master/src/main/java/org/hqw/designpattern/behaviorpattern/strategy)
